@@ -5,7 +5,7 @@ import china from "/flags/china.png";
 import france from "/flags/france.png";
 import germany from "/flags/germany.png";
 import dubai from "/flags/dubai.png";
-import italy from "/flags/italy.png";
+import italy from "/flags/itlay.png";
 import russia from "/flags/russia.png";
 import scotland from "/flags/scotland.png";
 import usa from "/flags/usa.png";
@@ -40,7 +40,7 @@ const Suppliers = () => {
     },
     {
       image: italy,
-      name: "Italy",
+      name: "Itlay",
       text: "shopname.com.it",
     },
     {

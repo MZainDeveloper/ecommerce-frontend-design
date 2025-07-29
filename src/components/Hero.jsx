@@ -34,7 +34,7 @@ const Hero = () => {
   ];
   const [activeIndex, setActiveIndex] = useState(0);
   return (
-   <div className="mt-4">
+    <div className="mt-4">
       <div className="w-[100%] md:container md:mx-auto md:bg-white md:rounded-md md:border-1 md:border-border md:px-6 md:py-4 ">
         <div className="grid grid-cols-5 grid-rows-1 gap-4 md:min-h-[450px] ">
           {/* Left Side - Col 1 */}
